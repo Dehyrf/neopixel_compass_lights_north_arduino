@@ -1,8 +1,5 @@
 /*  
-  Based on code and libraries created by helscream and Adafruit
-
---Edited and redistributed by Dehyrf under GNU GPL v3
-
+  By Dehyrf under GNU GPL v3, based on code and libraries from helscream and Adafruit
 */
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
